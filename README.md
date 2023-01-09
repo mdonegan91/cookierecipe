@@ -1,4 +1,4 @@
-# _Cookie Recipe
+# Cookie Recipe
 
 #### By _**Molly Donegan**_
 
@@ -10,7 +10,7 @@
 
 ## Description
 
-_A test website for working with HCSS_
+_A test website for working with HTML_
 
 ## Setup/Installation Requirements
 
